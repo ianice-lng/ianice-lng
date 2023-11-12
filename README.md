@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laiadev
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning HTML,CSS,JS,PYTHON,RUBY
+- 🌱 I’m currently learning HTML,CSS,Js,Python,Ruby
 - 📫 How to reach me, my discord is laia.21
 
 <!---
