@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @laiadev
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning HTML,CSS,Js,Python,Ruby
-- 📫 How to reach me, my discord is laia.21
 
 <!---
 laiadev/laiadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
