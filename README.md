@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zaphir21 or zaphir.21 for others social networks
+- 👋 Hi, I’m Ianice
 - 👀 I’m interested in Developement 
 - 🌱 I’m currently learning HTML,CSS,Js,Python, React
 
