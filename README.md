@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ianice
 - 👀 I’m interested in Developement 
-- 🌱 I’m currently learning HTML,CSS,Js,Python, React
+- 🌱 I’m currently learning HTML,CSS,Js,Python, React, Java/Kotlin
 
 <!---
 laiadev/laiadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
