@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Ianice or Zaphir21
+- 👋 Hi, I’m Ianice
 - 👀 I’m interested in Developement 
 - 🌱 I’m currently learning HTML,CSS,Js,Python, React, Java
