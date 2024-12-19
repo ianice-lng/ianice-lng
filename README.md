@@ -10,7 +10,7 @@ Salut ! Je suis **Ianice**, fan de programmation et d'anime/manga !
 - **Outils** : Git, JetBrains IDEs, VSCode.
 
 
-## 📊 Mes Statistiques GitHub=
+## 📊 Mes Statistiques GitHub
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaphir21&layout=compact&theme=radical" alt="Langages les plus utilisés" width="400" />
 
 
