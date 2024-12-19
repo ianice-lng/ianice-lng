@@ -11,6 +11,6 @@ Salut ! Je suis **Ianice**, fan de programmation et d'anime/manga !
 
 
 ## 📊 Mes Statistiques GitHub
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaphir21&layout=compact&theme=radical" alt="Langages les plus utilisés" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianice-lng&layout=compact&theme=radical" alt="Langages les plus utilisés" width="400" />
 
 
