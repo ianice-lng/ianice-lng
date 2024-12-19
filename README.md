@@ -1,3 +1,19 @@
-- 👋 Hi, I’m Ianice
-- 👀 I’m interested in Developement 
-- 🌱 I’m currently learning HTML,CSS,Js,Python, React, Java
+# Bienvenue sur mon profil GitHub ✨
+
+Salut ! Je suis **Ianice**, fan de programmation et d'anime/manga ! 
+
+## 📚 Technologies & Outils
+
+- **Langages** : JavaScript, TypeScript, HTML, CSS, Python, Java.
+- **Frameworks & Librairies** : React, Flask
+- **Base de données** : MongoDB
+- **Outils** : Git, JetBrains IDEs, VSCode.
+
+
+## 📊 Mes Statistiques GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=zaphir21&show_icons=true&theme=radical" alt="Stats GitHub" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaphir21&layout=compact&theme=radical" alt="Langages les plus utilisés" width="400" />
+---
+
+
