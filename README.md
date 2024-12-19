@@ -1,8 +1,4 @@
-# Bienvenue sur mon profil GitHub ✨
-
 Salut ! Je suis **Ianice**, fan de programmation et d'anime/manga ! 
-
-## 📚 Technologies & Outils
 
 - **Langages** : JavaScript, TypeScript, HTML, CSS, Python, Java.
 - **Frameworks & Librairies** : React, Flask
@@ -10,7 +6,6 @@ Salut ! Je suis **Ianice**, fan de programmation et d'anime/manga !
 - **Outils** : Git, JetBrains IDEs, VSCode.
 
 
-## 📊 Mes Statistiques GitHub
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianice-lng&layout=compact&theme=radical" alt="Langages les plus utilisés" width="400" />
 
 
