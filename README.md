@@ -1,5 +1,3 @@
-Salut ! **Ianice**, fan de programmation et d'anime/manga ! 
-
 - **Langages** : JavaScript, TypeScript, HTML, CSS, Python, Java.
 - **Frameworks & Librairies** : React, Flask
 - **Base de données** : MongoDB, MySQL
