@@ -1,9 +1,12 @@
+# Hello World 👋
+I'm young software developer. 
+
+## About me
 - **Langages** : JavaScript, TypeScript, HTML, CSS, Python, Java.
 - **Frameworks & Librairies** : React, Flask
-- **Base de données** : MongoDB, MySQL
-- **Outils** : Git, JetBrains IDEs, VSCode.
+- **Database** : MongoDB, MySQL
+- **Tools** : Git, JetBrains IDEs, VSCode.
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianice-lng&layout=compact&theme=radical" alt="Langages les plus utilisés" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianice-lng&layout=compact&theme=radical" width="400" />
 
 
