@@ -1,5 +1,6 @@
 
-# Hello World 👋 ! 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World+%F0%9F%91%8B+!+)](https://git.io/typing-svg)
+<br>
 I'm Ianice. I'm a young software developer.
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianice-lng&layout=compact&theme=radical" width="300" />
