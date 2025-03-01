@@ -1,7 +1,8 @@
 
 # Hello World 👋 ! 
 I'm Ianice. I'm a young software developer.
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianice-lng&layout=compact&theme=radical" width="400" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianice-lng&layout=compact&theme=radical" width="300" />
 
 ## Languages, Tools & Frameworks
 
