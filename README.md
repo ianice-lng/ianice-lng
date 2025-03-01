@@ -1,13 +1,47 @@
 
 # Hello World 👋 ! 
 I'm Ianice. I'm a young software developer.
-
-## About me
-- **Languages:** JavaScript, TypeScript, HTML, CSS, Python, Java.  
-- **Frameworks & Libraries:** React, Flask  
-- **Database:** MongoDB, MySQL  
-- **Tools:** Git, JetBrains IDEs, VSCode.  
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianice-lng&layout=compact&theme=radical" width="400" />
+
+## Languages, Tools & Frameworks
+
+[![HTML](https://skillicons.dev/icons?i=html)](https://w3schools.com/html/)
+&nbsp;
+[![CSS](https://skillicons.dev/icons?i=css)](https://w3schools.com/css/)
+&nbsp;
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://javascript.com/)
+&nbsp;
+[![TypeSript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
+&nbsp;
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org/)
+&nbsp;
+[![Java](https://skillicons.dev/icons?i=java)](https://java.com/)
+&nbsp;
+<br>
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com/)
+&nbsp;
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com/)
+&nbsp;
+<br>
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+&nbsp;
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/fr)
+&nbsp;
+[![DiscordJS](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org/)
+&nbsp;
+<br>
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+&nbsp;
+[![Webstorm](https://skillicons.dev/icons?i=webstorm)](https://www.jetbrains.com)
+&nbsp;
+[![Pycharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com)
+&nbsp;
+[![IntelliJIdea](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com)
+&nbsp;
+<br>
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+&nbsp;
+[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
+
 
 
