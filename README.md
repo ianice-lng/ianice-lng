@@ -18,6 +18,7 @@ I'm Ianice. I'm a young developer.
 &nbsp;
 [![Java](https://skillicons.dev/icons?i=java)](https://java.com/)
 &nbsp;
+[![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/fr-fr/dotnet/csharp/)
 <br>
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com/)
 &nbsp;
@@ -43,6 +44,7 @@ I'm Ianice. I'm a young developer.
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 &nbsp;
 [![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
-
+&nbsp;
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
 
 
