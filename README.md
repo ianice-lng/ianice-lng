@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=4AF626&width=435&lines=Hello+World+%F0%9F%91%8B;I'm+Ianice%2C+a+young+developer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
-<img align="right" src="https://animesher.com/orig/2/209/2098/20989/animesher.com_gif-essays-studying-motivation-2098962.gif" width="230"/>
+<img align="right" src="https://cdn.discordapp.com/attachments/1369250848630112309/1415614279079559239/animesher.com_gif-essays-studying-motivation-2098962.gif?ex=68c3d908&is=68c28788&hm=d9b08c1c90526af64d096217629a301b93ecd2f435a738e4f8f1f7924a6b5c4c&" width="230"/>
 
 - 🎓 Student & passionate developer  
 - 🚀 Learning & building projects in **Web, Mobile & Software Development**  
