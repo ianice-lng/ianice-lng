@@ -41,3 +41,8 @@
 [![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ianice-lng/ianice-lng/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ianice-lng/ianice-lng/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ianice-lng/ianice-lng/output/pacman-contribution-graph.svg">
+</picture>
