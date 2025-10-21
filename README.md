@@ -19,6 +19,7 @@
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://java.com/)
 [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/fr-fr/dotnet/csharp/)
+[![PHP](https://skillicons.dev/icons?i=php)]([https://learn.microsoft.com/fr-fr/dotnet/csharp/](https://www.php.net/))
 
 ### 🔹 Databases
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com/)
@@ -33,6 +34,9 @@
 [![WebStorm](https://skillicons.dev/icons?i=webstorm)](https://www.jetbrains.com)
 [![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com)
 [![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com)
+[![PHPStorm](https://skillicons.dev/icons?i=phpstorm)](https://www.jetbrains.com)
+
+
 
 ### 🔹 Other
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
