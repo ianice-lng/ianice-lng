@@ -28,7 +28,7 @@
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/fr)
 [![DiscordJS](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org/)
-
+[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
 ### 🔹 Tools & IDEs
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 [![WebStorm](https://skillicons.dev/icons?i=webstorm)](https://www.jetbrains.com)
