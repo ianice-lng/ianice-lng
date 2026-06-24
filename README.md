@@ -45,4 +45,5 @@
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
+[![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/)
 
